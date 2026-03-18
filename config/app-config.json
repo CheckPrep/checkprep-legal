@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "instrumentEarlyAccess": {
+    "enabled": true,
+    "sunsetDate": null,
+    "message": null
+  },
+  "announcements": {
+    "banner": null,
+    "storeMessage": null
+  }
+}
