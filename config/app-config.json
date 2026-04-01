@@ -1,9 +1,14 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "instrumentEarlyAccess": {
     "enabled": true,
     "sunsetDate": "2026-05-01T04:00:00Z",
     "message": "Instrument Rating ACS early access ends May 1. Your access is permanently grandfathered if you've used Instrument content before that date."
+  },
+  "commercialEarlyAccess": {
+    "enabled": true,
+    "sunsetDate": null,
+    "message": null
   },
   "announcements": {
     "banner": null,
