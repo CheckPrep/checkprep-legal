@@ -7,8 +7,8 @@
   },
   "commercialEarlyAccess": {
     "enabled": true,
-    "sunsetDate": "2026-06-01T04:00:00Z",
-    "message": "The Commercial Package early access ends June 1st. Your access is permanently grandfathered if you've used Commercial content before that date."
+    "sunsetDate": "2026-05-01T04:00:00Z",
+    "message": "The Commercial Package early access ends May 1st. Your access is permanently grandfathered if you've used Commercial content before that date."
   },
   "announcements": {
     "banner": null,
