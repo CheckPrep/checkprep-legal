@@ -11,7 +11,7 @@
     "message": "The Commercial Package early access ends April 15th, 2026. Your access is permanently grandfathered if you use Commercial content before this date."
   },
   "multiEarlyAccess": {
-    "enabled": true,
+    "enabled": false,
     "sunsetDate": "2026-05-01T04:00:00Z",
     "message": "The Commercial Multi Add-On Package early access ends April 15th, 2026. Your access is permanently grandfathered if you use Multi Add-On content before this date."
   },
