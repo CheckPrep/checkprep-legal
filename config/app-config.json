@@ -1,19 +1,14 @@
 {
   "schemaVersion": 2,
   "instrumentEarlyAccess": {
-    "enabled": true,
-    "sunsetDate": "2026-05-01T04:00:00Z",
-    "message": "The Instrument Package early access ends April 15th, 2026. Your access is permanently grandfathered if you use Instrument content before this date."
+    "enabled": false,
+    "sunsetDate": null,
+    "message": null
   },
   "commercialEarlyAccess": {
-    "enabled": true,
-    "sunsetDate": "2026-05-01T04:00:00Z",
-    "message": "The Commercial Package early access ends April 15th, 2026. Your access is permanently grandfathered if you use Commercial content before this date."
-  },
-  "multiEarlyAccess": {
     "enabled": false,
-    "sunsetDate": "2026-05-01T04:00:00Z",
-    "message": "The Commercial Multi Add-On Package early access ends April 15th, 2026. Your access is permanently grandfathered if you use Multi Add-On content before this date."
+    "sunsetDate": null,
+    "message": null
   },
   "announcements": {
     "banner": null,
